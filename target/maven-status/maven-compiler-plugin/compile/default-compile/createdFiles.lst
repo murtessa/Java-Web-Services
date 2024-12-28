@@ -1,0 +1,5 @@
+com\example\studentapi\service\StudentService.class
+com\example\studentapi\dao\StudentDAO.class
+com\example\studentapi\model\Student.class
+com\example\studentapi\App.class
+com\example\studentapi\config\DatabaseConnection.class
